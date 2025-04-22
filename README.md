@@ -6,7 +6,7 @@ com maior e menor intervalo entre prêmios consecutivos.
 
 ## Requisitos
 - Python 3.8+
-- `virtualenv` ou python `venv`## Comandos do Makefile
+- `virtualenv` ou python `venv`
 
 ## Setup do ambiente e execução
 
