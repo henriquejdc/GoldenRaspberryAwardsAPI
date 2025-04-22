@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite files (in-memory won't persist, but in case of debugging dumps)
+*.sqlite3
+*.db
+
+# Caches
+*.log
+*.pot
+*.pyc
+.cache
+pytest_cache/
+.coverage
+.tox/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Testing
+htmlcov/
+coverage.xml
+test-results/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# PEP 582 support (e.g. `__pypackages__`)
+__pypackages__/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
